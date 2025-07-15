@@ -1,0 +1,10 @@
+# aa.yml - 修正后的配置
+path: D:/迅雷云盘/pythonProject/ai-机构/yolo_image  # 替换为你的数据集根目录的绝对路径
+train: images  # 训练集目录（相对于path）
+val: images    # 验证集目录（相对于path），假设与训练集相同
+#names:
+#  0: fimg
+#  1: hazardous
+#  2: other
+
+nc: 4
